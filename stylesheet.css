@@ -1,0 +1,36 @@
+.tpt-status-cpu,
+.tpt-status-gpu,
+.tpt-status-fan {
+	padding-top: 7px;
+	padding-left: 4px;
+}
+
+.tpt-unit-cpu,
+.tpt-unit-gpu
+.tpt-unit-fan {
+	padding-top: 7px;
+	padding-right: 8px;
+}
+
+.tpt-box-title {
+	color: #ccc;
+	font-weight: bold;
+}
+
+.tpt-box-name {
+	color: #aaa;
+	font-weight: bold;
+	text-align: left;
+	width: 50px;
+}
+
+.tpt-box-value {
+	font-weight: bold;
+	text-align: right;
+	width: 90px;
+}
+
+.tpt-box-title,
+.tpt-box-name,
+.tpt-box-value {
+}
